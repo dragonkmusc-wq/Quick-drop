@@ -1,0 +1,45 @@
+indix.html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Quick Drop</title>
+  <style>
+    body {
+      font-family: Arial;
+      background: #111;
+      color: white;
+      text-align: center;
+    }
+    .product {
+      background: #222;
+      padding: 20px;
+      margin: 20px;
+      border-radius: 10px;
+    }
+    button {
+      background: gold;
+      border: none;
+      padding: 10px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🚀 Quick Drop</h1>
+  <p>Fast deals. Random drops. Grab before it's gone!</p>
+
+  <div class="product">
+    <h2>Wireless Earbuds</h2>
+    <p>UGX 50,000</p>
+    <button>Buy Now</button>
+  </div>
+
+  <div class="product">
+    <h2>Smart Watch</h2>
+    <p>UGX 120,000</p>
+    <button>Buy Now</button>
+  </div>
+
+</body>
+</html>
